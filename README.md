@@ -1,3 +1,5 @@
+Soy Sebastian , estoy trabjando actualmente con HTML, CSS, JS y REACT. Aunque no tengo mucha experiencia, algunos de mis practicas estan en mi repositorio para ver mis steps.
+
 - 👋 Hi, I’m @bmsebastian2
 - 👀 I’m interested in React, 
 - 🌱 I’m currently learning React
