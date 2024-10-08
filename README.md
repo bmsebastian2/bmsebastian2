@@ -26,7 +26,7 @@ Breve descripción de tu proyecto, sus características clave y cualquier logro 
 ## Imágenes de ejemplo
 
 <p align="center">
-  <img src="Baymanet.webp" alt="Imagen 1" width="150">  
+  <img src="Baymanet.webp" alt="Imagen 1" width="250">  
 </p>
 
 ### [Proyecto 2](https://github.com/tu-usuario/proyecto2)
