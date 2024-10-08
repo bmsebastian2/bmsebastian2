@@ -1,4 +1,4 @@
-# ![Banner del Perfil](SoyUnaWeb.webp)
+# ![Banner del Perfil](Instagram post - 3.jpg)
 
 # ¡Hola, soy [Tu Nombre]! 👋
 
