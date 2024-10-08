@@ -5,7 +5,7 @@
 
 ## Video de ejemplo
 
-[![Mira el video](https://github.com/bmsebastian2/bmsebastian2/blob/60308aec58649ef02b11a443afd5963db17c0242/web.mp4)
+[![Mira el video](web.mp4)
 
 
 Soy un **desarrollador** apasionado por la tecnología, con experiencia en [Lenguajes/Tecnologías principales], y me encanta colaborar en proyectos de software open-source. ¡Bienvenido a mi perfil de GitHub! Aquí podrás encontrar una variedad de proyectos en los que he trabajado y colaborado.
