@@ -1,8 +1,12 @@
+# ¡Hola, soy [Tu Nombre]! 👋
 # ![Banner del Perfil](https://github.com/bmsebastian2/bmsebastian2/blob/394aaaa484af9b46cd7fcf74d3de30b9f32b8640/Instagram%20post%20-%203.jpg)
 
-# ¡Hola, soy [Tu Nombre]! 👋
 
-![Imagen personal o de presentación](https://via.placeholder.com/400x300.png?text=Imagen+de+Presentación)
+
+## Video de ejemplo
+
+[![Mira el video](https://img.youtube.com/vi/TU_ID_DEL_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_ID_DEL_VIDEO "Título del video")
+
 
 Soy un **desarrollador** apasionado por la tecnología, con experiencia en [Lenguajes/Tecnologías principales], y me encanta colaborar en proyectos de software open-source. ¡Bienvenido a mi perfil de GitHub! Aquí podrás encontrar una variedad de proyectos en los que he trabajado y colaborado.
 
