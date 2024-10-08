@@ -12,10 +12,10 @@ Soy un **desarrollador** apasionado por la tecnología, con experiencia en [Leng
 
 ## 🚀 Tecnologías y Herramientas
 
-- **Lenguajes**: [JavaScript, Python, Go, etc.]
-- **Frameworks**: [React, Angular, Node.js, etc.]
+- **Lenguajes**: [JavaScript, Python, Java, etc.]
+- **Frameworks**: [React, NextJS, Astro, Node.js, etc.]
 - **Bases de Datos**: [MongoDB, MySQL, etc.]
-- **DevOps**: [Docker, Kubernetes, CI/CD, etc.]
+
 
 ## 🔧 Proyectos Destacados
 
@@ -54,8 +54,8 @@ Aparte de desarrollar software, también me gusta compartir conocimiento a trav�
 
 ## 💬 Cómo contactarme
 
-- **Email**: [tu.email@dominio.com]
-- **LinkedIn**: [Enlace a tu perfil](https://linkedin.com/in/tu-perfil)
+- **Email**: bmsebastian2@gmail.com
+- **LinkedIn**: [[Enlace a tu perfil](https://linkedin.com/in/tu-perfil)](https://www.linkedin.com/in/sebastian-mandirola/)
 - **Twitter**: [@tu-usuario](https://twitter.com/tu-usuario)
 
 ## 🏆 Logros y Reconocimientos
