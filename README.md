@@ -1,4 +1,4 @@
-# ![Banner del Perfil](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+Perfil+de+GitHub)
+# ![Banner del Perfil](SoyUnaWeb.webp)
 
 # ¡Hola, soy [Tu Nombre]! 👋
 
