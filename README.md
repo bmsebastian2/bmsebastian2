@@ -32,12 +32,14 @@ Breve descripción de tu proyecto, sus características clave y cualquier logro 
 ### [Proyecto 2](https://github.com/tu-usuario/proyecto2)
 Descripción de otro proyecto importante en el que has participado o dirigido.
 <p align="center">
-  <img src="SoyUnaWeb.webp" alt="Imagen 1" width="350">  
+  <img src="YogaSmall.webp" alt="Imagen 1" width="350">  
+  
+ 
 </p>
 ### [Proyecto 3](https://github.com/tu-usuario/proyecto3)
 Otro proyecto destacable. Puedes añadir capturas de pantalla, enlaces a demo o cualquier información relevante.
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Imagen 1" width="350">  
+   <img src="SoyUnaWeb.webp" alt="Imagen 1" width="350">  
 </p>
 ## 📝 Blog y Artículos
 
