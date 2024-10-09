@@ -42,7 +42,7 @@
                <br>
 <h3 align="center">YogaPraxysMontevideo</h3>
 <div align="center">                                       
-<a href="https://yogapraxyzmontevideo.netlify.app/" target="_blank"><img src="yoga.PNG" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://yogapraxyzmontevideo.netlify.app/" target="_blank"><img src="web2.PNG" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/bmsebastian2/YogaPraxysmontevideo" target="_blank">
