@@ -40,7 +40,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">YogaPraxysMontevideo</h3>
+<h3 align="center">Soy una Web 2.0</h3>
 <div align="center">                                       
 <a href="https://soyunaweb-next.vercel.app/" target="_blank"><img src="web2.PNG" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
@@ -99,11 +99,11 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Soy una Web</h3>
+<h3 align="center">Septiembre Dulce</h3>
 <div align="center">
-<a href="https://soyunaweb.netlify.app/" target="_blank"><img src="soyunaweb.PNG" width="400" alt="Curso básico android"></a>
+<a href="https://septiembredulce.netlify.app/" target="_blank"><img src="Septiembre.PNG" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/bmsebastian2/soyunaweb" target="_blank">
+<a href="https://github.com/bmsebastian2/septiembredulce" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
