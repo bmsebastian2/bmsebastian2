@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Soy una Web</h3>
 <div align="center">
 <a href="https://soyunaweb.netlify.app/" target="_blank"><img src="soyunaweb.PNG" width="400" alt="Curso básico android"></a>
 <p>
@@ -40,12 +40,12 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">YogaPraxysMontevideo</h3>
 <div align="center">                                       
 <a href="https://yogapraxyzmontevideo.netlify.app/" target="_blank"><img src="yoga.PNG" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/bmsebastian2/YogaPraxysmontevideo" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
