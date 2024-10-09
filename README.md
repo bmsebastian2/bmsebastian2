@@ -80,9 +80,9 @@
 <td width="50%">
 <h3 align="center">Progreso FC</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="Progreso.PNG" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://sebastianbenitezq.netlify.app/" target="_blank"><img src="Progreso.PNG" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<a href="https://github.com/bmsebastian2/FCPROGRESO" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
