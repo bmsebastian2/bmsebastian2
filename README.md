@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Sebastian Benitez </a> 👋</h1>
 </div>
 <img src="Beige & Black Geometric Technology LinkedIn Banner (1).png">
 
