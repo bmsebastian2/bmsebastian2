@@ -26,7 +26,7 @@
 <div align="center">
 <a href="https://soyunaweb.netlify.app/" target="_blank"><img src="soyunaweb.PNG" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/bmsebastian2/soyunaweb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
