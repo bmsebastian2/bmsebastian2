@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Web Comercial para Baymanet</strong> - Sitio web oficial de la empresa <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
 </div>                                                                                     
 </td>     
 <td width="50%">
