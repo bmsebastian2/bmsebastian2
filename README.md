@@ -26,9 +26,7 @@
 <a href="https://github.com/bmsebastian2/soyunaweb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
+
 </p>
 <p>SoyUNaWeb</strong> - Una web de diseño creada por mí se enfoca en ofrecer soluciones creativas y visuales para marcas y proyectos. <strong>2023</strong> El código disponible para descargar.</p>
 </div>
