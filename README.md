@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Web Comercial para Baymanet</strong> - Sitio web oficial de la empresa <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Web Comercial para Baymanet</strong> - Sitio web oficial de la empresa <strong></strong> con todo el código disponible para descargar.</p>
 </div>                                                                                     
 </td>     
 <td width="50%">
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>  
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Proyecto Web Card 3D animadas </strong> - Progreso F.C. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
 </div>                                                                                      
 </td>  
 </table>                                                                                 
