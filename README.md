@@ -28,10 +28,8 @@
 </a>
 </p>
 <p>SoyUNaWeb</strong> - Una web de diseño creada por mí se enfoca en ofrecer soluciones creativas y visuales para marcas y proyectos. <strong>2023</strong> El código disponible para descargar.</p>
-</div>
-                                                                                      
+</div>                                                                                      
 </td>
-
 <td width="50%">
 <br>
 <h3 align="center">Soy una Web 2.0</h3>
@@ -45,11 +43,10 @@
 </p> 
 <p>SoyUNaWeb Version 2</strong> -  Con un enfoque en la estética moderna, la navegación intuitiva y la optimización de la experiencia de usuario, . <strong>2023</strong> El código disponible para descargar.</p>
 </div>
-  </td>  
+</td>  
 </table>                                                                                 
 </div>
 <br>
-
 <table>
 <tr>
 <td width="50%">
@@ -60,32 +57,26 @@
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>       
-
+</div>                                                                                     
+</td>     
 <td width="50%">
 <h3 align="center">Progreso FC</h3>
 <div align="center">
 <a href="https://sebastianbenitezq.netlify.app/" target="_blank"><img src="Progreso.PNG" width="400" alt="Curso Kotlin Multiplatform"></a>
+  <br>
 <p>
 <a href="https://github.com/bmsebastian2/FCPROGRESO" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-
-</p>
-  
+</p>  
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+</div>                                                                                      
 </td>  
 </table>                                                                                 
 </div>
 <br>
-
 <table>
 <tr>
 <td width="50%">
