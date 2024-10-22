@@ -110,7 +110,7 @@
 </a>
 
 </p>
-</p>Una página web de yoga ofrece una experiencia serena y acogedora, con un diseño minimalista que refleja paz y equilibrio. Incluye información sobre clases, horarios, y opciones de inscripción en línea.</p>
+</p>Una página web de yoga ofrece una experiencia serena y acogedora, con un diseño RETRO que refleja paz y equilibrio. Incluye información sobre clases, horarios, y opciones de inscripción en línea.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
