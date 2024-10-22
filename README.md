@@ -33,7 +33,7 @@
 </td>
 
 <td width="50%">
-               <br>
+<br>
 <h3 align="center">Soy una Web 2.0</h3>
 <div align="center">                                       
 <a href="https://soyunaweb-next.vercel.app/" target="_blank"><img src="web2.PNG" width="400" alt="Soy una Web v2"></a>
@@ -44,7 +44,8 @@
 </a>
 </p> 
 <p>SoyUNaWeb Version 2</strong> -  Con un enfoque en la estética moderna, la navegación intuitiva y la optimización de la experiencia de usuario, . <strong>2023</strong> El código disponible para descargar.</p>
-</div>                                                             
+</div>
+  </td>  
 </table>                                                                                 
 </div>
 <br>
@@ -84,6 +85,7 @@
 </table>                                                                                 
 </div>
 <br>
+
 <table>
 <tr>
 <td width="50%">
