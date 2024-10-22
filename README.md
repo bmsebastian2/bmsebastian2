@@ -59,12 +59,12 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>SoyUNaWeb</strong> - Una web de diseño creada por mí se enfoca en ofrecer soluciones creativas y visuales para marcas y proyectos. <strong>2023</strong> El código disponible para descargar.</p>
+<p>SoyUNaWeb</strong> - Una web de diseño creada por mí se enfoca en ofrecer soluciones creativas y visuales para marcas y proyectos. <strong>2022</strong> El código disponible para descargar.</p>
 </div>                                                                                      
 </td>
 <td width="50%">
 <br>
-<h3 align="center">Soy una Web 2.0</h3>
+<h3 align="center">2.0 Soy una Web</h3>
 <div align="center">                                       
 <a href="https://soyunaweb-next.vercel.app/" target="_blank"><img src="web2.PNG" width="400" alt="Soy una Web v2"></a>
 <br>
@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p> 
-<p>SoyUNaWeb Version 2</strong> -  Con un enfoque en la estética moderna, la navegación intuitiva y la optimización de la experiencia de usuario, . <strong>2023</strong> El código disponible para descargar.</p>
+<p>SoyUNaWeb Version 2</strong> -  Con un enfoque en la estética moderna, la navegación intuitiva y la optimización de la experiencia de usuario, . <strong></strong> El código disponible para descargar.</p>
 </div>
 </td>  
 </table>                                                                                 
