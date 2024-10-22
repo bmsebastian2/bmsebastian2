@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>  
-<p>Proyecto Web Card 3D animadas </strong> - Progreso F.C. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Proyecto Web Card 3D animadas </strong> - Progreso F.C. <strong></strong> todo el código disponible para descargar.</p>
 </div>                                                                                      
 </td>  
 </table>                                                                                 
