@@ -21,28 +21,28 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Baymanet</h3>
+<h3 align="center">Soy una Web</h3>
 <div align="center">
-<a href="https://github.com/bmsebastian2/baymanet_2" target="_blank"><img src="baymanet.PNG" width="400" alt="Curso intermedio Android"></a>
+<a href="https://soyunaweb.netlify.app/" target="_blank"><img src="soyunaweb.PNG" width="400" alt="Soy una web v1"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/bmsebastian2/soyunaweb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>SoyUNaWeb</strong> - Una web de diseño creada por mí se enfoca en ofrecer soluciones creativas y visuales para marcas y proyectos. <strong>2023</strong> El código disponible para descargar.</p>
 </div>                                                                                     
 </td>     
 <td width="50%">
-<h3 align="center">Progreso FC</h3>
+<h3 align="center">Soy una Web 2.0</h3>
 <div align="center">
-<a href="https://sebastianbenitezq.netlify.app/" target="_blank"><img src="Progreso.PNG" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://soyunaweb-next.vercel.app/" target="_blank"><img src="web2.PNG" width="400" alt="Soy una Web v2"></a>
   <br>
 <p>
 <a href="https://github.com/bmsebastian2/FCPROGRESO" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>  
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>SoyUNaWeb Version 2</strong> -  Con un enfoque en la estética moderna, la navegación intuitiva y la optimización de la experiencia de usuario, . <strong>2023</strong> El código disponible para descargar.</p>
 </div>                                                                                      
 </td>  
 </table>                                                                                 
