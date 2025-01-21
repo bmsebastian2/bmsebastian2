@@ -53,13 +53,13 @@
 <td width="50%">
 <h3 align="center">Baymanet</h3>
 <div align="center">
-<a href="https://github.com/bmsebastian2/baymanet_2" target="_blank"><img src="baymanet.PNG" width="400" alt="Curso intermedio Android"></a>
+
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Web Comercial para Baymanet</strong> - Sitio web oficial de la empresa <strong></strong> con todo el código disponible para descargar.</p>
+
 </div>                                                                                     
 </td>     
 <td width="50%">
