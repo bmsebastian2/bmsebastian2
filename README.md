@@ -22,7 +22,7 @@
   <td width="50%">
 <h3 align="center">JBMContadores</h3>
 <div align="center">
-<a href="https://www.jbmcontadores.uy" target="_blank"><img src="public/images/Portada.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://www.jbmcontadores.uy" target="_blank"><img src="Portada.png" width="400" alt="Curso Kotlin Multiplatform"></a>
   <br>
 <p>
 <a href="https://github.com/bmsebastian2/jbmcontadores" target="_blank">
