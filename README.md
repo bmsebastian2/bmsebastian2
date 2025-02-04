@@ -46,36 +46,33 @@
      </td>     
 </table>                                                                                 
 
-
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Baymanet</h3>
-<div align="center">
-
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-
-</div>                                                                                     
-</td>     
-<td width="50%">
-<h3 align="center">Progreso FC</h3>
-<div align="center">
-<a href="https://sebastianbenitezq.netlify.app/" target="_blank"><img src="Progreso.PNG" width="400" alt="Curso Kotlin Multiplatform"></a>
-  <br>
-<p>
-<a href="https://github.com/bmsebastian2/FCPROGRESO" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>  
-<p>Proyecto Web Card 3D animadas </strong> - Progreso F.C. <strong></strong> todo el código disponible para descargar.</p>
-</div>                                                                                      
-</td>  
+      <tr>
+      <td width="50%">
+            <h3 align="center">Baymanet</h3>
+            <div align="center">
+                  <p>
+                        <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+                              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        </a>
+                  </p>
+           </div>                                                                                     
+      </td>     
+      <td width="50%">
+            <h3 align="center">Progreso FC</h3>
+          <div align="center">
+            <a href="https://sebastianbenitezq.netlify.app/" target="_blank"><img src="Progreso.PNG" width="400" alt="Curso Kotlin Multiplatform"></a>
+              <br>
+            <p>
+                  <a href="https://github.com/bmsebastian2/FCPROGRESO" target="_blank">
+                  <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+                  </a>
+            </p>  
+            <p>Proyecto Web Card 3D animadas </strong> - Progreso F.C. <strong></strong> todo el código disponible para descargar.</p>
+         </div>                                                                                      
+      </td>  
 </table>                                                                                 
-</div>
+
 
 <br>
 <table>
