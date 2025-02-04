@@ -19,34 +19,33 @@
 
 <table>
 <tr>
-  <td width="50%">
-<h3 align="center">JBMContadores</h3>
-<div align="center">
-<a href="https://www.jbmcontadores.uy" target="_blank"><img src="Portada.png" width="400" alt="Curso Kotlin Multiplatform"></a>
-  <br>
-<p>
-<a href="https://github.com/bmsebastian2/jbmcontadores" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>  
-<p>Proyecto Web Card 3D animadas </strong> - Progreso F.C. <strong></strong> todo el código disponible para descargar.</p>
-</div>                                                                                      
-</td>  
-<td width="50%">
-<h3 align="center">Baymanet</h3>
-<div align="center">
-<a href="https://github.com/bmsebastian2/baymanet_2" target="_blank"><img src="baymanet.PNG" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Web Comercial para Baymanet</strong> - Sitio web oficial de la empresa <strong></strong> con todo el código disponible para descargar.</p>
-</div>                                                                                     
-</td>     
-
+      <td width="50%">
+        <h3 align="center">JBMContadores</h3>
+        <div align="center">
+          <a href="https://www.jbmcontadores.uy" target="_blank"><img src="Portada.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+            <br>
+          <p>
+            <a href="https://github.com/bmsebastian2/jbmcontadores" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+          </p>  
+          <p>Proyecto Web Card 3D animadas </strong> - Progreso F.C. <strong></strong> todo el código disponible para descargar.</p>
+        </div>                                                                                      
+      </td>  
+      <td width="50%">
+        <h3 align="center">Baymanet</h3>
+        <div align="center">
+          <a href="https://github.com/bmsebastian2/baymanet_2" target="_blank"><img src="baymanet.PNG" width="400" alt="Curso intermedio Android"></a>
+          <p>
+            <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+          </p>
+          <p>Web Comercial para Baymanet</strong> - Sitio web oficial de la empresa <strong></strong> con todo el código disponible para descargar.</p>
+        </div>                                                                                     
+     </td>     
 </table>                                                                                 
-</div>
+
 
 <table>
 <tr>
